@@ -1,0 +1,6 @@
+numpy
+scipy
+setuptools==41.0.0
+tensorflow==1.15.0-rc0
+opencv-python
+python3-tk
